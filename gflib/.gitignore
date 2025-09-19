@@ -1,0 +1,22 @@
+handler.c
+
+# Build artifacts (excluding handler.o and handler_noasan.o which are in repo)
+content.o
+gf-student.o
+gfclient.o
+gfclient_download.o
+gfserver.o
+gfserver_main.o
+workload.o
+
+# Compiled executables
+gfclient_download
+gfserver_main
+
+# IDE files
+.idea/
+
+# Generated directories and files
+courses/
+AGENTS.md
+
