@@ -15,3 +15,4 @@ mtgf/*-result-*.json
 *.o
 
 */courses/
+.idea/
